@@ -15,7 +15,7 @@ have in mind. If anyone is aware of a markup/down that's really nice for guitar
 chords, please do let me know.
 
 
-## legal shit
+## legal stuff
 To the extent that any of this is my work, CC0 applies. Almost everything will
 probably be :copyright: somebody else. I'll do my best to attribute it. Don't
 make any money off work in this repo without verifying that someone else isn't
